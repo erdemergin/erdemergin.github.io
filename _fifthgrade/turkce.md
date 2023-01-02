@@ -131,3 +131,37 @@ img: assets/img/fifthgrade/turkce.png
     </div>
 </div>
       
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+            <a href="https://www.youtube.com/watch?v=px51bgc6kFk" target="_blank">
+                Metinde Anlam - Tonguç
+            </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+            <a href="https://www.youtube.com/watch?v=79ElvPWK9iU" target="_blank">
+                Parçada Anlam 1 - Tonguç
+            </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+            <a href="https://www.youtube.com/watch?v=64Bg4PeQH84" target="_blank">
+                Parçada Anlam 2 - Tonguç
+            </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+            <a href="https://www.youtube.com/watch?v=Zix3xIgWdzU"
+            target="_blank">
+                Paragrafta Anlam - Tonguç
+            </a>
+    </div>
+</div>
+
+
