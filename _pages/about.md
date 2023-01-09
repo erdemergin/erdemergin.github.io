@@ -19,10 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my CTO consulting page!
 
-As a CTO consultant, I specialize in helping businesses leverage the power of cloud technologies to achieve their technical and business goals. With over 10 years of experience as a CTO and technology leader, I have a track record of successfully building and leading high-performing teams, and of leading complex cloud migration projects.
+As a CTO consultant, my area of expertise is assisting companies in utilizing cloud technology to meet their technical and commercial objectives. I've been a CTO and technology leader for over ten years, and during that time, I've built and led high-performing teams and managed challenging cloud migration projects with great success.
 
-I am skilled in a range of cloud technologies and platforms, including AWS, and Azure, and have experience with both front-end and back-end development. I have a strong understanding of modern software development methodologies and a passion for staying up-to-date with industry trends.
+I have expertise with both front-end and back-end development and am proficient in a variety of cloud technologies and platforms, including AWS and Azure. I'm passionate about keeping up with industry changes and have a solid understanding of contemporary software development processes.
 
-In my role as a CTO consultant, I work with businesses to assess their current technology stack and identify areas where the cloud can bring value. I then develop customized migration plans and lead the execution of those plans to ensure a smooth and successful transition to the cloud.
+In my capacity as a CTO consultant, I assist companies in evaluating their present technological infrastructure and identifying areas where the cloud can be beneficial. I then create individualized migration strategies and oversee their execution to guarantee a successful move to the cloud.
 
 If you're a business leader looking to transform your organization through the adoption of cloud technologies, I would be happy to help. Please don't hesitate to contact me to discuss your needs in more detail.
