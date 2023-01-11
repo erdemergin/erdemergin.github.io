@@ -74,8 +74,9 @@ img: assets/img/fifthgrade/fen.jfif
     <div class="row">
         <div class="col-sm-3 mt-3 mt-md-0">TED</div>
         <div class="col-sm mt-3 mt-md-0">
+            <span class="badge bg-success">Yeni</span> 
             <a href="https://vimeo.com/474989259/9c38de5ee3" target="_blank">
-                <span class="badge bg-success">Yeni</span> Kuvvetin Ölçülmesi
+                Kuvvetin Ölçülmesi
             </a>
         </div>
     </div>
@@ -83,8 +84,9 @@ img: assets/img/fifthgrade/fen.jfif
     <div class="row">
         <div class="col-sm-3 mt-3 mt-md-0">TED</div>
         <div class="col-sm mt-3 mt-md-0">
+            <span class="badge bg-success">Yeni</span> 
             <a href="https://vimeo.com/474989459/1034b25e4d" target="_blank">
-                <span class="badge bg-success">Yeni</span> Sürtünme Kuvveti 
+                Sürtünme Kuvveti 
             </a>
         </div>
     </div>
@@ -92,8 +94,9 @@ img: assets/img/fifthgrade/fen.jfif
     <div class="row">
         <div class="col-sm-3 mt-3 mt-md-0">Tonguç</div>
         <div class="col-sm mt-3 mt-md-0">
+            <span class="badge bg-success">Yeni</span> 
             <a href="https://www.youtube.com/watch?v=yiVW3x2Lun4" target="_blank">
-                <span class="badge bg-success">Yeni</span> Kuvvetin Ölçülmesi ve Sürtünme
+                Kuvvetin Ölçülmesi ve Sürtünme
             </a>
         </div>
     </div>
@@ -153,8 +156,9 @@ img: assets/img/fifthgrade/fen.jfif
     <div class="row">
         <div class="col-sm-3 mt-3 mt-md-0">Tonguç</div>
         <div class="col-sm mt-3 mt-md-0">
+            <span class="badge bg-success">Yeni</span> 
             <a href="https://www.youtube.com/watch?v=4BgpNLklHn8" target="_blank">
-                <span class="badge bg-success">Yeni</span> 1. Dönem 2.Yazılıya Hazırlık
+                1. Dönem 2.Yazılıya Hazırlık
             </a>
         </div>
     </div>
