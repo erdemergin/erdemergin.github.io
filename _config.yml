@@ -15,7 +15,7 @@ footer_text: >
 keywords: Cloud migration, Cloud strategy, Cloud architecture, Cloud-native development, AWS consulting, Azure consulting, Software development, Technical leadership, CTO consulting  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://erdemergin.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -107,6 +107,12 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+
+# -----------------------------------------------------------------------------
+# About
+# -----------------------------------------------------------------------------
+
+about_nav_title: about
 
 # -----------------------------------------------------------------------------
 # Blog
